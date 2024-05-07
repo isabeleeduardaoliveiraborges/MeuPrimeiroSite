@@ -10,7 +10,7 @@ header{
 #menu ul{
     padding: 0px;
     margin: 0px;
-    background-color: antiquewhite;
+    background-color: rgb(234, 230, 225);
     list-style: none;
 }
 
@@ -20,7 +20,7 @@ header{
     padding: 2px 10px;
     display: inline-block;
     text-decoration: none;
-    border: bottom 3px seagreen;
+    border: bottom 3px rgb(251, 251, 251);
 }
 
 
@@ -54,3 +54,8 @@ footer{
     /* background-color: rgb(228, 177, 242); */
     padding: 3%;
 }
+h2{ 
+  color: aliceblue;
+}
+h2{ color: aliceblue;}
+h1 {color: aliceblue;}
