@@ -1,11 +1,14 @@
 body{
     /* background-color: #050404; */
-    background-image: url('../img/fundo_ordem.jpg');
-    background-repeat: no-repeat;
+    background-image: url('../img/fundo_ordem.jpg')  ; 
+    padding: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    
     justify-content: center; /* Centraliza horizontalmente */
 align-items: center; /* Centraliza verticalmente */
-height: 100vh; /* Define a altura do corpo para ocupar toda a altura da tela */
-margin: 0; /* Remove as margens padrão do corpo */
+height: 45vh; /* Define a altura do corpo para ocupar toda a altura da tela */
+margin: 5; /* Remove as margens padrão do corpo */
 }
 header{
    padding:3%
@@ -82,9 +85,10 @@ p{
      /* Estilos opcionais para a imagem */
      max-width: 100%; /* Garante que a imagem não ultrapasse a largura da tela */
      max-height: 100%; /* Garante que a imagem não ultrapasse a altura da tela */
-     background-image: url('../img/foto\ 33.jpg'); /* Estilos opcionais para a imagem */
-     max-width: 50%; /* Garante que a imagem não ultrapasse a largura da tela */
-     max-height: 50%; /* Garante que a imagem não ultrapasse a altura da tela */
+     background-image: url('..img/fundo_ordem'); /* Estilos opcionais para a imagem */
+     padding: 10%;
+     max-width: 100%; /* Garante que a imagem não ultrapasse a largura da tela */
+     max-height: 100%; /* Garante que a imagem não ultrapasse a altura da tela */
     padding: 2%;
 }
 h6 {
@@ -100,3 +104,25 @@ h4 {
     
 
 }
+li{
+    background-color: rgba(240, 248, 255, 0.158);
+    border: 2px;
+    color: crimson;
+}
+.logo img{
+   max-width: 15%
+   ;
+}
+          p{
+            line-height: 1.5;
+            font-size: 1.2;
+            text-align: justify;
+          }
+    figure{
+        text-align: center;
+        display: inline-block;
+    }
+    .caixa-imagem{
+        text-align: center;
+        margin-top: 1%;
+    }
