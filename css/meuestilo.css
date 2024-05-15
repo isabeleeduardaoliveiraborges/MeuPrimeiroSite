@@ -15,12 +15,11 @@ header{
 }
 
 #menu ul{
-    padding: 0px;
-    margin: 0px;
-    background-color: rgb(234, 230, 225);
-    list-style: none;
-}
-
+    padding: 2px 10px;
+     display: inline-block;
+     text-decoration: none;
+        border-bottom: 3px solid rgb(173, 49, 49) 
+        }
 #menu ul li {display: inline;}
 
 #pmenu ul li{
@@ -126,3 +125,11 @@ li{
         text-align: center;
         margin-top: 1%;
     }
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+    
+        tr:nth-child(even){
+            background-color: #dddddd;}
