@@ -1,15 +1,8 @@
 body{
     /* background-color: #050404; */
-    background-image: url('../img/fundo_ordem.jpg')  ; 
-    background-repeat: no-repeat;
-    padding: 1%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: rgb(59, 99, 40);
-    justify-content: center; /* Centraliza horizontalmente */
-align-items: center; /* Centraliza verticalmente */
-height: 45vh; /* Define a altura do corpo para ocupar toda a altura da tela */
-margin: 5; /* Remove as margens padrão do corpo */
+    background-image: url('../img/d59bb93f09e02b8bb7e891a25d42dfed.jpg')  ; 
+    background-repeat: no-repeat ;
+   background-size: cover;
 }
     header{ padding: 3%; 
      display: flex;
@@ -33,15 +26,12 @@ margin: 5; /* Remove as margens padrão do corpo */
     border: bottom 3px rgb(251, 251, 251);
 }
 .logo img{
-   
-    max-width:100%;
+    max-width: 35%;
     height: auto;}
-
-
 .logo {
     color: rgb(121, 121, 121);
-    padding: 4%;
-    font-size: 70px;
+    padding: 3%;
+    font-size: 30px;
     margin: 2% solid rgb(10, 10, 10);
     /* background-color: rgb(113, 236, 206); */
 }
@@ -73,12 +63,9 @@ main{
     margin-left: auto;
     margin-right: auto;
 
-   /* background-color: rgb(9, 102, 21); */
- 
+   /* background-color: rgb(9, 102, 21); */ 
 }
-section{
-    /* background-color: rgb(145, 204, 8); */
-}
+
 footer{
     /* background-color: rgb(48, 151, 34); */
 }
@@ -97,22 +84,20 @@ footer{
     padding: 3%;
 }
 
-
-
 p{
     color: whitesmoke;
-    border: 4px solid red;
 }
 .imgem {
      /* Estilos opcionais para a imagem */
      max-width: 100%; /* Garante que a imagem não ultrapasse a largura da tela */
      max-height: 100%; /* Garante que a imagem não ultrapasse a altura da tela */
-     background-image: url('..img/fundo_ordem'); /* Estilos opcionais para a imagem */
+     b; /* Estilos opcionais para a imagem */
      padding: 10%;
      max-width: 100%; /* Garante que a imagem não ultrapasse a largura da tela */
      max-height: 100%; /* Garante que a imagem não ultrapasse a altura da tela */
     padding: 2%;
 }
+
 h1{
     color: aqua;
     font-size: larger;
@@ -123,19 +108,13 @@ h2{
     color: aqua;
     font-size: 20px; 
     padding: 3%;
-    
-
 }
 li{
-    background-color: rgba(240, 248, 255, 0.158);
+    background-color: rgb(240, 248, 255, 0.158);
     border: 2px;
     color: rgb(0, 0, 0);
 }
-.logo img{
-   
-max-width:100%;
-height: auto;
-}
+
           p{
             line-height: 1.5;
             font-size: 1.2;
@@ -150,7 +129,7 @@ height: auto;
         margin-top: 1%;
     }
     td, th {
-        border: 1px solid #dddddd;
+        border: 1px solid #ffffff;
         text-align: left;
         padding: 8px;
       }
@@ -162,21 +141,13 @@ height: auto;
                 text-align: center;
                font-weight: bold;
             }
-            h1{
-                font-size: 2em;
-            }
-            h2{
-                font-size: 1.5em;
-            }
+          
     p{ line-height: 1.5; 
     font-size: 1.2em;
 text-align: justify;}
 
 
-.logo.img{
-    max-width: 100%;
-    height: auto;
-}
+
 .caixa-imagem{
   text-align: center;
   margin-top: 1%;
@@ -197,3 +168,10 @@ figure img{
     margin: 1.0em;
     text-align: center;
     color: aquamarine;}
+
+th{
+    color: white;
+}
+.tabela{
+    text-align: center;
+}
