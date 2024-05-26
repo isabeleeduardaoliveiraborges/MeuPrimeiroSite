@@ -1,6 +1,6 @@
 body{
     /* background-color: #050404; */
-    background-image: url('../img/d59bb93f09e02b8bb7e891a25d42dfed.jpg')  ; 
+    background-image: url('../img/WhatsApp\ Image\ 2024-05-25\ at\ 16.26.49.jpeg'); 
     background-repeat: no-repeat ;
    background-size: cover;
 }
@@ -14,7 +14,7 @@ body{
      margin: 0;
      list-style: none;
      display: flex;
-        }
+  }
 #menu ul li {
     display: inline;
    font-size: 1.5em;}
@@ -90,8 +90,8 @@ p{
 .imgem {
      /* Estilos opcionais para a imagem */
      max-width: 100%; /* Garante que a imagem não ultrapasse a largura da tela */
-     max-height: 100%; /* Garante que a imagem não ultrapasse a altura da tela */
-     b; /* Estilos opcionais para a imagem */
+     ax-height: 100%; /* Garante que a imagem não ultrapasse a altura da tela */
+     /* b Estilos opcionais para a imagem */
      padding: 10%;
      max-width: 100%; /* Garante que a imagem não ultrapasse a largura da tela */
      max-height: 100%; /* Garante que a imagem não ultrapasse a altura da tela */
