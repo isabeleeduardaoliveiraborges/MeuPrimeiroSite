@@ -199,3 +199,11 @@ figure figcaption{
   tr:nth-child(even) {
     background-color: #5dc250;
   }
+  th{
+    color: #ff0000;
+    font-style: italic;
+  }
+  p{
+    font-style: italic;
+  }
+
