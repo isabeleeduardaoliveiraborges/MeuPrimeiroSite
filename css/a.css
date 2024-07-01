@@ -1,0 +1,16 @@
+body{
+    background-color: ;
+    background-image: url(../img/f.jpg) ;
+}
+p{
+    color: antiquewhite;
+}
+h1{
+    color: antiquewhite;
+}
+img{
+    height: 500px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
