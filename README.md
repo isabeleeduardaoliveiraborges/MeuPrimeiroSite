@@ -1,2 +1,1 @@
-# https://isabeleeduardaoliveiraborges.github.io/MeuPrimeiroSite/
-Meu primeiro site emhtml
+# loja_de_eletronicos
